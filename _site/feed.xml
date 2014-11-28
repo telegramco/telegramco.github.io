@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram Creative Co.</title>
+    <description>A blog about creating things. By Michael Lightwater.
+</description>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 27 Nov 2014 23:23:29 -0500</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2014 23:23:29 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Lorem Gibson</title>
+        <description>&lt;p&gt;This is a test. Lorem Gibson:&lt;/p&gt;
+
+&lt;p&gt;artisanal pre- vinyl city dead stimulate math- papier-mache narrative pre- -space physical hacker katana soul-delay. apophenia digital modem human artisanal market footage franchise euro-pop stimulate drone bridge face forwards euro-pop futurity. sign marketing youtube camera spook shanty town woman tattoo tiger-team towards claymore mine uplink saturation point corporation sub-orbital. dome boat pre- smart- woman bicycle semiotics numinous cyber- engine disposable knife disposable youtube nodal point. sunglasses city RAF tank-traps cartel chrome tank-traps Tokyo -space order-flow crypto- decay franchise beef noodles sentient. range-rover sunglasses saturation point concrete refrigerator construct physical construct pen savant futurity pen katana pistol wristwatch. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Nov 2014 17:00:00 -0500</pubDate>
+        <link>//2014/11/27/first-post.html</link>
+        <guid isPermaLink="true">//2014/11/27/first-post.html</guid>
+        
+        <category>featured</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

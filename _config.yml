@@ -1,0 +1,66 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "Telegram Creative Co."
+description: > # this means to ignore newlines until "email:"
+   A blog about creating things. By Michael Lightwater.
+
+email: telegramco@gmail.com
+# Circular logo on homepage
+homepage_logo: "/assets/images/logo-circle-creative-600.png"
+# Blog logo in upper-left corner (and other places)
+logo: "/assets/images/logo-square-noborder-200.png"
+# Blog cover image
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Michael Lightwater'
+author: 'Michael Lightwater'
+author_image: "/assets/images/logo-circle-creative-600.png"
+
+paginate:	5
+
+url: "/" #"http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	tumblr
+    url:	http://telegramco.tumblr.com
+    desc: Follow us on Tumblr
+    share_url: //www.tumblr.com/share/link
+    share_title: ?name=
+    share_link: "&amp;url="
+
+  - icon:	instagram
+    url:	http://instagram.com/telegram_co
+    desc: Follow us on Instagram
+
+  - icon:	facebook
+    url:	https://www.facebook.com/telegramco
+    desc: Connect with us on Facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	twitter
+    url:	https://twitter.com/telegram_co
+    desc: Follow us on Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	github
+#    url:	https://github.com/dirkfabisch
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
