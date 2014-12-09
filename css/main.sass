@@ -9,6 +9,7 @@
   @include clearfix
 
 $rs: 16px
+$rx: $rs/2
 
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
@@ -40,18 +41,18 @@ body
   position: fixed
   left: 10px
   top: 10px
-  width: $rs*3
-  height: $rs*3
+  width: $rx*6
+  height: $rx*6
   background-color: #222
   overflow: hidden
   z-index: 99
   .logo
     display: block
     position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
+    top: $rx/2
+    left: $rx/2
+    width: $rx*5
+    height: $rx*5
     background-size: cover
     background-repeat: no-repeat
 
