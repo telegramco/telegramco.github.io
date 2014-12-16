@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Telegram Creative"
 description: > # this means to ignore newlines until "email:"
-   A magazine about creating things. By Telegram Co.
+   A blog about creating things. By Telegram Co.
 
 email: telegramco@gmail.com
 
