@@ -2,7 +2,6 @@
 layout: post
 title:  "Lorem Gibson"
 date:   2014-11-27 22:00:00
-tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 This is a test. Lorem Gibson:
