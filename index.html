@@ -27,6 +27,26 @@ layout: default
     </div>
 </header>
 
+{% comment %}
+
+TODO: if you want a left sidebar (with email sign-up), then:
+1) Uncomment this code
+2) Add a closing '</div>' at the end of this file
+3) Factor out these styles and make them non-hacky
+
+<style type="text/css">
+  .homepage_container { position:relative; margin: 0 auto; max-width:840px; }
+  .left_sidebar { width:180px; padding: 40px 0; position:absolute; }
+  .content { margin: 0 180px; padding-left:20px; border-left: 1px solid #333; }
+  a { color: #333; }
+</style>
+
+<div class="homepage_container">
+
+<div class="left_sidebar">
+  {% include mailchimp.html %}
+</div>
+{% endcomment %}
 
 <main class="content" role="main">
 
