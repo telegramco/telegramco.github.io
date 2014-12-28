@@ -30,6 +30,31 @@
         <br>
         <br>
         {% endif %}
+
+{% comment %} TODO: make this less hacky {% endcomment %}
+<style type="text/css">
+.blog-header .blog-logo { top: -100px; }
+.blog-header .custom-links { padding-top: 50px; }
+</style>
+        <header class="blog-header">
+            {% if site.homepage_logo %}
+              <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.homepage_logo }}')">{{ site.title }}</a>
+            {% endif %}
+            <div class="custom-links">
+              <a href="http://telegram-co.com/">Telegram &nbsp;&nbsp;·&nbsp;&nbsp;</a>
+              {% for social in site.social %}
+                {% if social.url %}
+                    <a class="icon-{{ social.icon }}" href="{{ social.url }}">
+                      <i class="fa fa-{{ social.icon }}"></i>
+                    </a>
+                    &nbsp;&nbsp;·&nbsp;&nbsp;
+                {% endif %}
+              {% endfor %}
+              <a href="/about/">About</a>
+            </div>
+        </header>
+
+
         <section class="post-content">
           <div class="post-reading">
             <span class="post-reading-time"></span> read
