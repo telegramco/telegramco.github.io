@@ -267,7 +267,7 @@ body {
     padding: 40px 0;
     border-bottom: 1px solid #f2f2f0; }
     .content article.first {
-      padding: 0; }
+      padding: 0 0 40px; }
     .content article:last-child {
       border-bottom: 0px; }
     .content article .post-title {
