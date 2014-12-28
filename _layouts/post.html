@@ -31,12 +31,7 @@
         <br>
         {% endif %}
 
-{% comment %} TODO: make this less hacky {% endcomment %}
-<style type="text/css">
-.blog-header .blog-logo { top: -100px; }
-.blog-header .custom-links { padding-top: 50px; }
-</style>
-        <header class="blog-header">
+        <header class="blog-header on-post">
             {% if site.homepage_logo %}
               <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.homepage_logo }}')">{{ site.title }}</a>
             {% endif %}
@@ -53,7 +48,6 @@
               <a href="/about/">About</a>
             </div>
         </header>
-
 
         <section class="post-content">
           <div class="post-reading">
