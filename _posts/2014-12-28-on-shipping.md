@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Shipping"
-date:   2014-12-28 12:30:00
+date:   2014-12-28 14:00:00
 image:  /assets/article_images/2014-12-28/typewriter.jpg
 ---
 
