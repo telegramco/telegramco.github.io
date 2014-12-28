@@ -53,7 +53,7 @@ TODO: if you want a left sidebar (with email sign-up), then:
 
     <div class="cf frame">
       {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+        <article class="post {% if forloop.first %}first{% endif %}" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
