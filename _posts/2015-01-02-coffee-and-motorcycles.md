@@ -12,5 +12,3 @@ What's the difference between a cup of coffee and a motorcycle? (How is a raven 
 And by selling these two things -- a $3 cup of coffee, and a $9000 motorcycle, they seem to make a living.
 
 If only we could all be so cleanly satisfied.
-
-![](/assets/article_images/2015-01-02/jane_sign.jpg)
