@@ -11,6 +11,6 @@ What does it take to make a living doing art? There's this Ira Glass quote:
 
 And of course art isn't just visual art, but anything you make -- if you make music, or write novels, or design clothes or write programs, the sentiment is the same. There's a sense of 'taste' but you have to push past it, to get to what you're good at.
 
-The counterpart to that big quote is Kevin Kelly's [1000 true fans](http://kk.org/thetechnium/2008/03/1000-true-fans/). The idea that with the rise of the Internet, you don't need a giant audience or a great big megaphone anymore. You just need a small group of people who care about what you're making. Who care a _lot_ about what you're making
+The counterpart to that big quote is Kevin Kelly's [1000 true fans](http://kk.org/thetechnium/2008/03/1000-true-fans/). The idea that with the rise of the Internet, you don't need a giant audience or a great big megaphone anymore. You just need a small group of people who care about what you're making. Who care a _lot_ about what you're making.
 
 Which is what we're trying to do at [Telegram](http://telegram-co.com/). We make jeans. One thing at a time, done well. And if you're interested, maybe you'd like to [join us](http://telegram-co.com/pages/newsletter).
