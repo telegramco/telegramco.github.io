@@ -13,4 +13,4 @@ And of course art isn't just visual art, but anything you make -- if you make mu
 
 The counterpart to that big quote is Kevin Kelly's [1000 true fans](http://kk.org/thetechnium/2008/03/1000-true-fans/). The idea that with the rise of the Internet, you don't need a giant audience or a great big megaphone anymore. You just need a small group of people who care about what you're making. Who care a _lot_ about what you're making.
 
-Which is what we're trying to do at [Telegram](http://telegram-co.com/). We make jeans. One thing at a time, done well. And if you're interested, maybe you'd like to [join us](http://telegram-co.com/pages/newsletter).
+Which is what we're trying to do with Telegram. We want to make one thing—Japanese denim jeans—and make them very, very well. (Interested? We're [launching soon](http://telegram-co.com).)
