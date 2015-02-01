@@ -11,6 +11,5 @@ echo "---
 layout: post
 title:  \"FILL ME IN\"
 date:   $DATE_STAMP 14:00 <-- FILL-ME-IN
-image:  /assets/article_images/$DATE_STAMP/FILL-ME-IN.jpg
 ---
 " > $POST_PATH
