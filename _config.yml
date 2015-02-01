@@ -3,11 +3,11 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Telegram Creative"
+title: "Telegram Style"
 description: > # this means to ignore newlines until "email:"
-   A blog about creating things.
+   A magazine of style and substance.
 
-email: telegramco@gmail.com
+email: contact@telegram-co.com
 
 # Circular logo on homepage
 homepage_logo: "/assets/images/logo-circle-creative-gold-600.png"
