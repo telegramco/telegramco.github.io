@@ -1,6 +1,6 @@
-# Telegram Creative
+# Telegram Style
 
-Site for [Telegram Creative](http://telegramco.github.io/), hosted on Github pages.
+Site for [Telegram Style](http://telegramco.github.io/), hosted on Github pages.
 
 Made with [Jekyll](http://jekyllrb.com/) and the [Mediator](https://github.com/dirkfabisch/mediator) theme.
 
